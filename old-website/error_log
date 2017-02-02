@@ -1,0 +1,4 @@
+[29-Feb-2012 16:34:50] PHP Warning:  include(lib/phpmailer/class.phpmailer.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/alue2009/public_html/envia_contato_01.php on line 13
+[29-Feb-2012 16:34:50] PHP Warning:  include(lib/phpmailer/class.phpmailer.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/alue2009/public_html/envia_contato_01.php on line 13
+[29-Feb-2012 16:34:50] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'lib/phpmailer/class.phpmailer.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/alue2009/public_html/envia_contato_01.php on line 13
+[29-Feb-2012 16:34:50] PHP Fatal error:  Class 'PHPMailer' not found in /home/alue2009/public_html/envia_contato_01.php on line 42

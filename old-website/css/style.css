@@ -1,0 +1,72 @@
+<style>
+body{
+	background-color: #F5F5F5;
+}
+#envia_contato {
+	background-color: #F5F5F5;
+    display: block;
+    margin: auto;
+	float: left;
+    overflow: hidden;
+    padding: 0;
+    position: static;
+    text-align: center;
+    width: 534px;
+}
+input[type="text"] {
+    background-position: 0 0;
+    background-repeat: no-repeat;
+    border: 1px solid #CCCCCC;
+    color: #888888;
+    display: block;
+    font-family: 'HelveticaNeueLTStd47LightCond',Arial,Helvetica,sans-serif;
+    font-size: 13px;
+    height: 31px;
+    letter-spacing: 1px;
+    line-height: 31px;
+    margin: 6px auto 0;
+    overflow: hidden;
+    padding: 0 5px;
+    position: static;
+    width: 522px;
+}
+input[type="submit"] {
+    border: 1px solid #CCCCCC;
+	background-color: #FFFFFF;
+    color: #888888;
+    cursor: pointer;
+    float: right;
+    font-family: 'HelveticaNeueLTStd47LightCond',Arial,Helvetica,sans-serif;
+    font-size: 16px;
+    height: 31px;
+    letter-spacing: 1px;
+    margin-right: 6px;
+    width: 100px;
+}
+textarea {
+    background-color: #FFFFFF;
+    background-position: 0 0;
+    background-repeat: no-repeat;
+    border: 1px solid #CCCCCC;
+    color: #888888;
+    display: block;
+    font-family: 'HelveticaNeueLTStd47LightCond',Arial,Helvetica,sans-serif;
+    font-size: 13px;
+    height: 202px;
+    letter-spacing: 1px;
+    line-height: 20px;
+    margin: 6px auto 0;
+    overflow: auto;
+    padding: 0 5px;
+    position: static;
+    resize: none;
+    width: 522px;
+}
+textarea {
+    background-color: #FFFFFF;
+    height: 202px;
+    line-height: 20px;
+    overflow: auto;
+    resize: none;
+}
+</style>
